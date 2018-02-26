@@ -10,6 +10,7 @@ public class Demo {
 			/////
 			////////
 			//Changes checking
+			//
 		}while(x<=10);
 	}
 }
